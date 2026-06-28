@@ -1,9 +1,11 @@
 {
   "name": "webapi_proj",
   "version": "1.0.0",
-  "description": "COBSCCOMP251P-018",
-  "main": "index.js",
+  "description": "COBSCCOMP251P-066",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
