@@ -1,5 +1,5 @@
 {
-  "name": "webapi_proj",
+  "name": "web-api",
   "version": "1.0.0",
   "description": "COBSCCOMP251P-066",
   "main": "server.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clina999/WebAPIDev-Test.git"
+    "url": "git+https://github.com/Enstorm5/Web-API.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/clina999/WebAPIDev-Test/issues"
+    "url": "https://github.com/Enstorm5/Web-API/issues"
   },
-  "homepage": "https://github.com/clina999/WebAPIDev-Test#readme",
+  "homepage": "https://github.com/Enstorm5/Web-API#readme",
   "dependencies": {
     "express": "^5.2.1"
   }
