@@ -3,10 +3,10 @@ const express = require("express");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-app.get("/", (req, res) => {
+app.get("/route", (req, res) => {
     res.status(200).json({
         status: "ok",
-        message: "session test",
+        message: "Web API",
     });
 });
 
